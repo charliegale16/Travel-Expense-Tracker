@@ -1,11 +1,9 @@
-import './index.css';
-import Signin from './components/Signin';
-
+import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <Signin />
+      <h1>Hey</h1>
     </div>
   );
 }
